@@ -15,7 +15,7 @@
 1. Be respectful.
 2. No spam
 3. No Bullying
-4. NO Fighting
+4. No Fighting
 
 ## 🌎 About This Community
 
