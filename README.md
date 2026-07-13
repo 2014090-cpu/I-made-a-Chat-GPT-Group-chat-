@@ -32,7 +32,7 @@ Whether you are a builder, PvP player, mod creator, or just love Minecraft, ever
 - Server discussions
 - Community events
 
-## Goals
+## 🎯 Goals
 0 → 1 member 🔥
 1 → 10 members 🚀
 10 → 50 members 🌎
