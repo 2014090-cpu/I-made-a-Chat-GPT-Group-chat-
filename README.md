@@ -30,7 +30,6 @@ Whether you are a builder, PvP player, mod creator, or just love Minecraft, ever
 - Build sharing
 - Mod & client talk
 - Server discussions
-- Community events
 
 ## 🎯 Goals
 0 → 1 member 🔥
